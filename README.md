@@ -9,7 +9,7 @@
 ![HTML-CSS](https://skillicons.dev/icons?i=python,flask,html,css)
 
 
-#### Estudando no momento :
+## Estudando no momento :
 
 ![JS](https://skillicons.dev/icons?i=git,github,js,)
 
