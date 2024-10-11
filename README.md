@@ -15,7 +15,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/e34c9c1a-df32-41a3-929e-54e6203eee55.svg)](https://wakatime.com/@e34c9c1a-df32-41a3-929e-54e6203eee55)
 
-![Total time coded since May 11 2023](https://github-readme-stats.vercel.app/api/wakatime/?username=praxaDev&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=praxaDev&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6)
 
 
 ## Linguagens
