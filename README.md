@@ -33,13 +33,13 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) -->
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-0D1117.svg?style=for-the-badge&logo=Mongoose&logoColor=B22222)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117.svg?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
 
 ## Front-end
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=blue)&nbsp;
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
