@@ -12,28 +12,27 @@
 ![time](https://github-readme-stats.vercel.app/api/wakatime/?username=praxaDev&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6)
 
 ## Learning
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=CSHARP)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Languages
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; -->
 
 ## Database
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=SQLalchemy&logoColor=red)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)
-![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white) -->
 
 ## Back-end
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
-![Mongoose](https://img.shields.io/badge/Mongoose-0D1117.svg?style=for-the-badge&logo=Mongoose&logoColor=B22222)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0D1117.svg?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 <!-- ![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -44,7 +43,7 @@
 
 
 ## Front-end
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=blue)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
