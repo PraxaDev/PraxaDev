@@ -7,25 +7,33 @@
 
 # Status
 
-[![wakatime](https://wakatime.com/badge/user/e34c9c1a-df32-41a3-929e-54e6203eee55.svg)](https://wakatime.com/@e34c9c1a-df32-41a3-929e-54e6203eee55)
+[![time](https://wakatime.com/badge/user/e34c9c1a-df32-41a3-929e-54e6203eee55.svg)](https://wakatime.com/@e34c9c1a-df32-41a3-929e-54e6203eee55)
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=praxaDev&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6)
+![time](https://github-readme-stats.vercel.app/api/wakatime/?username=praxaDev&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6)
 
+## Learning
+![C#](https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=CSHARP)
+![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## Linguagens
+## Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; -->
 
-## Banco de Dados
+## Database
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=SQLalchemy&logoColor=red)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)
 ![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 <!-- ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white) -->
 
 ## Back-end
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
+![Mongoose](https://img.shields.io/badge/Mongoose-0D1117.svg?style=for-the-badge&logo=Mongoose&logoColor=B22222)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-0D1117.svg?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
 <!-- ![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -33,13 +41,10 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) -->
-![Mongoose](https://img.shields.io/badge/Mongoose-0D1117.svg?style=for-the-badge&logo=Mongoose&logoColor=B22222)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0D1117.svg?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
+
 
 ## Front-end
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=blue)&nbsp;
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
