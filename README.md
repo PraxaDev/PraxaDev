@@ -12,8 +12,7 @@
 ![time](https://github-readme-stats.vercel.app/api/wakatime/?username=praxaDev&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6)
 
 ## Learning
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=CSHARP)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
